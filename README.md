@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/dearkhush/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/dearkhush/LeetCode/tree/master/0584-find-customer-referee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/dearkhush/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/dearkhush/LeetCode/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
