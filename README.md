@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/dearkhush/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dearkhush/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dearkhush/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/dearkhush/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dearkhush/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -53,8 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dearkhush/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dearkhush/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dearkhush/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dearkhush/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
