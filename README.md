@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/dearkhush/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/dearkhush/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dearkhush/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dearkhush/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -34,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/dearkhush/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/dearkhush/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dearkhush/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dearkhush/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/dearkhush/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/dearkhush/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
