@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dearkhush/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/dearkhush/LeetCode/tree/master/0507-perfect-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/dearkhush/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/dearkhush/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/dearkhush/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dearkhush/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dearkhush/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/dearkhush/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/dearkhush/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/dearkhush/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -59,14 +62,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dearkhush/LeetCode/tree/master/0268-missing-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dearkhush/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dearkhush/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dearkhush/LeetCode/tree/master/0268-missing-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dearkhush/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dearkhush/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dearkhush/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
